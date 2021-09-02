@@ -18,6 +18,10 @@
 jE8Q@@@@"@@@@QBgHj :/?==^!!:::,,,'..```    ,*F4j}U
 ```
 
+## Installation
+run following script (*not as root*)
+`wget -O- 'https://raw.githubusercontent.com/MikMuellerDev/SchoolNotes-vs/main/install.sh' | bash`
+
 ## Features
 
 This extension is capable of converting *markdown (.md)* files to *.pdf* files, which are cross platform and easy to share.
@@ -25,13 +29,20 @@ Due to *Rubixdev's* *md2pdf* tool, the extension is able to convert beautiful ta
 
 ## Usage
 
-The converter can be started via a *right-click* on either the markdown file in the folder view or clicking anywhere on the opened markdown file.
+The converter can be started via a *right-click* on either the markdown file in the folder view or clicking anywhere on the opened markdown file.  
+
 ![](assets/select1.png)
 ![](assets/select2.png)
-*Interactive mode* will ask for a custom text, which will be automatically placed on the *right-top* pf the pdf document.
-*With date* will not ask for this text, but instead uses the *local date* as a header in the *right-top* of the pdf document. 
-![](assets/select1.png).png)
-![](assets/select2.png).png)
+
+
+*Interactive mode* will ask for a custom text, which will be automatically placed on the *right-top* pf the pdf document.  
+*With date* will not ask for this text, but instead uses the *local date* as a header in the *right-top* of the pdf document.  
+When launching in interactive mode, type in the text you want at the top of the screen.
+
+![](assets/image2.png).
+![](assets/image1.png)
+
+When converting, there will be a lot of output in the console, if there are markdown syntax errors in the document, there will be a prompt which you can skip with *Enter*
 
 ## Requirements
 
