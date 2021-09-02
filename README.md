@@ -20,7 +20,9 @@ jE8Q@@@@"@@@@QBgHj :/?==^!!:::,,,'..```    ,*F4j}U
 
 ## Installation
 run following script (*not as root*)  
-```wget -O- 'https://raw.githubusercontent.com/MikMuellerDev/SchoolNotes-vs/main/install.sh' | bash```
+``` 
+wget -O- 'https://raw.githubusercontent.com/MikMuellerDev/SchoolNotes-vs/main/install.sh' | bash
+```
 
 ## Features
 
