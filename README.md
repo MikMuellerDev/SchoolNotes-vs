@@ -26,8 +26,12 @@ Due to *Rubixdev's* *md2pdf* tool, the extension is able to convert beautiful ta
 ## Usage
 
 The converter can be started via a *right-click* on either the markdown file in the folder view or clicking anywhere on the opened markdown file.
+![](assets/select1.png)
+![](assets/select2.png)
 *Interactive mode* will ask for a custom text, which will be automatically placed on the *right-top* pf the pdf document.
 *With date* will not ask for this text, but instead uses the *local date* as a header in the *right-top* of the pdf document. 
+![](assets/select1.png).png)
+![](assets/select2.png).png)
 
 ## Requirements
 
