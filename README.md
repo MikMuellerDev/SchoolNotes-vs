@@ -49,7 +49,6 @@ When converting, there will be a lot of output in the console, if there are mark
 ## Requirements
 
 - A linux Computer (*Windows will not work*)
-- The *md2pdf* package by 
 - The [*md2pdf*](https://github.com/RubixDev/md2pdf) tool by [*Rubixdev*](https://github.com/rubixdev) is required.
   - The installation is described [*here*](https://github.com/RubixDev/md2pdf/blob/main/README.md#automatic-installation)
 
