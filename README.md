@@ -19,7 +19,7 @@ jE8Q@@@@"@@@@QBgHj :/?==^!!:::,,,'..```    ,*F4j}U
 
 ## Installation
 ### File download
-The extension file can be dowloaded [here.](https://github.com/MikMuellerDev/SchoolNotes-vs/releases/download/v1.0.0-beta.1/schoolnotes-vs-1.0.0-beta.1.vsix)
+The extension file can be dowloaded [here.](https://github.com/MikMuellerDev/SchoolNotes-vs/releases/download/v1.0.0/schoolnotes-vs-1.0.0.vsix)
 
 ### Manual installation
 1. Download the file using the link above.
