@@ -1,11 +1,11 @@
 {
-	"publisher": "mikmueller",
+	"publisher": "MikMueller",
 	"repository": "https://github.com/MikMuellerDev/SchoolNotes-vs",
 	"icon": "assets/schoolnotes.png",
-	"name": "schoolnotes",
+	"name": "schoolnotes-vs",
 	"displayName": "SchoolNotes",
 	"description": "Companion extension for SchoolNotes",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
@@ -21,11 +21,11 @@
 		"commands": [
 			{
 				"command": "md2pdf.compileInteractive",
-				"title": "convert to pdf (interactive)"
+				"title": "Convert to pdf with prompts"
 			},
 			{
 				"command": "md2pdf.compileWithDate",
-				"title": "convert to pdf with date"
+				"title": "Convert to pdf automatically"
 			}
 		],
 		"menus": {

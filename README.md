@@ -1,5 +1,4 @@
 # School Notes README
-
 # SchoolNotes
 > The most basic but most practical way of keeping notes in school.
 
@@ -19,6 +18,20 @@ jE8Q@@@@"@@@@QBgHj :/?==^!!:::,,,'..```    ,*F4j}U
 ```
 
 ## Installation
+### File download
+The extension file can be dowloaded [here.](https://github.com/MikMuellerDev/SchoolNotes-vs/releases/download/v1.0.0-beta.1/schoolnotes-vs-1.0.0-beta.1.vsix)
+
+### Manual installation
+1. Download the file using the link above.
+2. Open *VsCode*
+3. Open the extension submenu
+4. Click on see more (*...*) in the rop right corner of the extension submenu.
+5. Select *Install from VSIX*
+6. Choose the downloaded release of *SchoolNotes-vs* in your location (must be the *.VSIX* file)
+7. Enjoy and read the [usage](#usage)
+
+
+### Automatic installation (recommended)
 run following script (*not as root*)  
 ``` 
 wget -O- 'https://raw.githubusercontent.com/MikMuellerDev/SchoolNotes-vs/main/install.sh' | bash
