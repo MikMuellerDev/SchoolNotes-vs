@@ -2,6 +2,8 @@
 # SchoolNotes
 > The most basic but most practical way of keeping notes in school.
 
+# Because I don't use VSCode anymore, this repository has been archived.
+
 ```
  ___     _             _ _  _     _          
 / __| __| |_  ___  ___| | \| |___| |_ ___ ___
